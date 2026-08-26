@@ -3,3 +3,12 @@
 .vscode/c_cpp_properties.json
 .vscode/launch.json
 .vscode/ipch
+
+
+# KiCad autosaves, lock files, and backups
+*-bak.kicad_sch
+*.kicad_pcb-bak
+*.bck
+*.tmp
+_autosave-*
+*.lck
